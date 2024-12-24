@@ -58,6 +58,7 @@
 
 |#|Repository|Description|Stars|Language|Updated|
 |:-|:-|:-|:-|:-|:-|
+|0|[CyC2018/CS-Notes](https://t.bilibili.com/?spm_id_from=333.1007.0.0)|:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++|113.6k|Java|10/29|
 |1|[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)|:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++|113.6k|Java|10/29|
 |2|[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)|Python - 100天从新手到大师|94.7k|Python|10/22|
 |3|[Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)|「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！|90.7k|Java|10/29|
